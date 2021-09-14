@@ -8,6 +8,3 @@
 - Information about website
 
 
-
-## Alan
-- Alan es joto
